@@ -21,7 +21,7 @@ class OpenShiftProvision(object):
         self.playbook_args = playbook_args
 
         self.container_runtime = self._container_runtime()
-        self.container_image = 'quay.io/jhocutt/openshift-provision'
+        self.container_image = 'quay.io/kenmoini/openshift-provision'
         self.container_command_args = self._container_command_args()
 
     def _container_runtime(self):
