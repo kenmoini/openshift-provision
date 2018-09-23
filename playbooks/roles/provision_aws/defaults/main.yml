@@ -44,8 +44,8 @@ ec2_ami_ids:
     cloud_access: ami-7849e717
     hourly: ami-7849e717
   us-east-1:
-    cloud_access: ami-fbc89880
-    hourly: ami-fbc89880
+    cloud_access: ami-b63769a1
+    hourly: ami-b63769a1
   us-east-2:
     cloud_access: ami-ab5474ce
     hourly: ami-ab5474ce
